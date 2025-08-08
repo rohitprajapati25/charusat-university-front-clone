@@ -10,7 +10,6 @@ You can view the live demo of this project at the following URL:
 
 ## Features
 
-- Responsive design for various screen sizes (Desktop, Leptop)
 - Interactive navigation bar
 - Featured sections including University details, courses, and events
 - Static content with visually appealing layouts
@@ -20,8 +19,7 @@ You can view the live demo of this project at the following URL:
 
 - **HTML**: Markup language used to create the structure of the website.
 - **CSS**: Styling the content and making the website visually appealing.
-- **JavaScript**: To handle interactions and dynamic content (e.g., opening menus).
-- **Responsive Design**: Ensures the website works well on all screen sizes, including mobile.
+- **JavaScript**: To handle interactions and dynamic content.
 
 ## Installation
 
@@ -31,4 +29,5 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/rohitprajapati25/charusat-university-front-clone.git
+
 
