@@ -16,8 +16,34 @@
     href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css"
     rel="stylesheet"
 />
+<style>
+  @media(max-width:1000px) {
+    #main{
+        display: none;
+    }
+    #front{
+        height:100vh;
+        width:100vw;
+        position: absolute; 
+        background-color: #428;
+        color: #fff;
+        z-index: 500;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: auto;
+        
+    }
+    
+    
+    
+ }
+</style>
 </head>
 <body>
+<div id="front">
+    <h1 style="margin: -100px;position: absolute;">Please Open In PC / Leptop</h1>
+</div>
 <div id="main"> 
     <div id="fixed-div"></div>
     
@@ -270,7 +296,7 @@
     <div id="page3">
             <div id="p3v">
                 <h3>CHARUSAT At Glance</h3>
-                <video loop autoplay muted controls src="../intro.mp4"></video>
+                <video loop autoplay muted controls src="./video/intro.mp4"></video>
             </div>
             <div class="d" style="height: 200px;width: 250px;background-color: #428;border-radius: 500px;position: absolute;margin-top: 75%;margin-right: 78%;filter: blur(15px);"></div>
             <div class="d1" style="height: 200px;width: 250px;background-color: #428;border-radius: 500px;position: absolute;margin-top: 40%;margin-left: 80%;filter: blur(15px);"></div>
