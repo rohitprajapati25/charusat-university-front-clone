@@ -10,7 +10,7 @@ You can view the live demo of this project at the following URL:
 
 ## Features
 
-- Responsive design for various screen sizes (Desktop, Tablet, Mobile)
+- Responsive design for various screen sizes (Desktop, Leptop)
 - Interactive navigation bar
 - Featured sections including University details, courses, and events
 - Static content with visually appealing layouts
@@ -31,3 +31,4 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/rohitprajapati25/charusat-university-front-clone.git
+
