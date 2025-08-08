@@ -1,2 +1,1 @@
 ﻿# charusat-university-front-clone
-<a href="https://rohitprajapati25.github.io/charusat-university-front-clone/"></a>
